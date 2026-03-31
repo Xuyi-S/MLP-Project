@@ -1,0 +1,83 @@
+original_variable,used_variable,transformation,short_note,change_explanation
+CB3,CB3,raw,Original variable kept,No transformation was applied. The original variable was kept in its original form for screening and modelling.
+CB4,CB4,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+CB5A,CB5A,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+CB5B,CB5B,raw,Original variable kept,No transformation was applied. The original variable was kept in its original form for screening and modelling.
+CB7,CB7,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+CB11,CB11,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+HH6,HH6,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+HH7,HH7,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+HL4,HL4,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+ethnicity,ethnicity,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+wscore,wscore_log1p,log1p,Applied log(x+1),A log(x+1) transformation was applied because the variable was treated as a more continuous score/count variable with a right-skewed distribution. This transformation reduces skewness while preserving the ordering of values.
+CL2,CL2,raw,Original variable kept,No transformation was applied. The original variable was kept in its original form for screening and modelling.
+CL3,CL3,raw,Original variable kept,No transformation was applied. The original variable was kept in its original form for screening and modelling.
+CL12,CL12,raw,Original variable kept,No transformation was applied. The original variable was kept in its original form for screening and modelling.
+CL13,CL13,raw,Original variable kept,No transformation was applied. The original variable was kept in its original form for screening and modelling.
+FCD2A,FCD2A,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+FCD2B,FCD2B,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+FCD2C,FCD2C,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+FCD2D,FCD2D,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+FCD2E,FCD2E,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+FCD2F,FCD2F,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+FCD2G,FCD2G,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+FCD2H,FCD2H,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+FCD2I,FCD2I,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+FCD2J,FCD2J,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+FCD2K,FCD2K,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+FCD5,FCD5,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+WB4,WB4,raw,Original variable kept,No transformation was applied. The original variable was kept in its original form for screening and modelling.
+WB5,WB5,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+WB6A,WB6A,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+WB6B,WB6B,raw,Original variable kept,No transformation was applied. The original variable was kept in its original form for screening and modelling.
+WB14,WB14,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+DV1A,DV1A,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+DV1B,DV1B,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+DV1C,DV1C,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+DV1D,DV1D,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+DV1E,DV1E,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+VT1,VT1,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+VT9,VT9,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+VT20,VT20,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+VT21,VT21,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+VT22A,VT22A,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+VT22B,VT22B,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+VT22C,VT22C,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+VT22D,VT22D,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+VT22E,VT22E,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+VT22F,VT22F,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+VT22X,VT22X,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+MSTATUS,MSTATUS,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+MA2,MA2,raw,Original variable kept,No transformation was applied. The original variable was kept in its original form for screening and modelling.
+MA3,MA3,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+disability,disability,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+AF10,AF10,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+AF11,AF11,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+AF12,AF12,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+TA1,TA1,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+TA14,TA14,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+LS1,LS1,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+LS2,LS2,raw,Original variable kept,No transformation was applied. The original variable was kept in its original form for screening and modelling.
+LS3,LS3,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+LS4,LS4,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+CSURV,CSURV,raw,Original variable kept,No transformation was applied. The original variable was kept in its original form for screening and modelling.
+CDEAD,CDEAD_log1p,log1p,Applied log(x+1),A log(x+1) transformation was applied because the variable was treated as a more continuous score/count variable with a right-skewed distribution. This transformation reduces skewness while preserving the ordering of values.
+HC4,HC4,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+HC5,HC5,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+HC8,HC8,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+HC11,HC11,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+HC12,HC12,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+HC13,HC13,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+HC14,HC14,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+HC15,HC15,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+HC17,HC17,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+HC19,HC19,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+TN1,TN1,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+WS1,WS1,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+WS3,WS3,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+WS4,WS4,raw,Original variable kept,No transformation was applied. The original variable was kept in its original form for screening and modelling.
+WS7,WS7,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+WS11,WS11,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+WS14,WS14,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+WS15,WS15,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
+HW5,HW5,raw_non_numeric_or_empty,Other,Other transformation or no explanation specified.
